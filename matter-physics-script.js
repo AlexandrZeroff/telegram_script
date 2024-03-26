@@ -1,3 +1,4 @@
+
 function initSimulation() {
   var Engine = Matter.Engine,
     Render = Matter.Render,
